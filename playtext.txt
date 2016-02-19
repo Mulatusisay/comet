@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 my repo -master and comet on a cloud
+=======
+Enter file contents here
+ok 1
+>>>>>>> a8f889fb7c1995524cad4548d9656e2082d1c676
